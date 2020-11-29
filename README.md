@@ -7,7 +7,7 @@ It's better to try out on your own and learn, rather than copying from someone e
 Look up for the Discussions Forum or Slack first and try. 
 
 Course 1 - Natural Language Processing with Classification and Vector Spaces
-  Week 1 - Sentiment Analysis with Logistic Regression
+  <p>Week 1 - Sentiment Analysis with Logistic Regression </p>
   Week 2 - Sentiment Analysis with Naïve Bayes
   Week 3 - Vector Space Models
   Week 4 - Machine Translation and Document Search
